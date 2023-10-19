@@ -1,2 +1,2 @@
-# online_learning
+# Online Learning
 An online learning framework, written in Rust 🦀
